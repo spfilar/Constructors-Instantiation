@@ -1,0 +1,23 @@
+Constructors and instantiation
+
+1) public Car() = new Car();
+
+2) public Bean(int weight) = new Bean(20);
+
+3) public Airplane(long maxDistance) = new Airplane(22000L);
+
+4) public Bus(int seats) = new Bus(25);
+
+5) public SkiLift(int chairs, float maxSpeed, float maxCapacity) =
+	new SkiLift(200, 10f, 2000f);
+
+6) public Gondola(int maxOccupancy) = new Gondola(400);
+
+7) public Data(String[] args) = new Data("One", "Two", "Three");
+
+8) public CelestialObject(Double distanceFromSol) =
+	new CelestialObject(3.092183e+120d);
+
+9) public Sun(Double maxSurfaceTemperature) = new Sun(2.3948e+50d);
+
+10) public Pluto(boolean isPlanetOrNot) = new Pluto(true);

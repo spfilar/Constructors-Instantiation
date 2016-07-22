@@ -1,0 +1,21 @@
+Constructors and Instantiation 2
+
+1) public Car()
+
+2) public Car(String carColor, int numberOfCars)
+
+3) public Bus(int numberOfSeats)
+
+4) public HotDog(String[] args)
+
+5) public Aroma(String typeOfAroma)
+
+6) public Behavior(boolean goodBehavior)
+
+7) public Assignment(boolean newAssignment)
+
+8) public AstronomicalDistance(int milesAway, int kilometersAway)
+
+9) public DateTime(int year, int month, int day)
+
+10) public Assignment(String timeToGoHome)
